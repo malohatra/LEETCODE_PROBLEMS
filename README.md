@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -214,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
