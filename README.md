@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/0070-climbing-stairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/malohatra/LEETCODE_PROBLEMS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
